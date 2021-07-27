@@ -2,10 +2,10 @@
  * @name Template Object Injection
  * @description Instantiating a template using a user-controlled object is vulnerable to local file read and potential remote code execution.
  * @kind path-problem
- * @problem.severity error
- * @security-severity 9.3
- * @precision high
- * @id js/template-object-injection
+ * @problem.severity warning
+ * @security-severity 1.1
+ * @precision low
+ * @id js/template-object-injection-tug
  * @tags security
  *       external/cwe/cwe-073
  *       external/cwe/cwe-094
