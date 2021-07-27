@@ -1,1 +1,1 @@
-- query: javascript/ql/src/Security/CWE-073/TemplateObjectInjection.ql
+- query: javascript/ql/TemplateObjectInjection.ql
